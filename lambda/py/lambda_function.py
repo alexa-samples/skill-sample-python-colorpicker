@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# This is a High Low Guess game Alexa Skill.
-# The skill serves as a simple sample on how to use the
-# persistence attributes and persistence adapter features in the SDK.
+# This is a Color Picker Alexa Skill.
+# The skill serves as a simple sample on how to use  
+# session attributes.
 
 import logging
 
